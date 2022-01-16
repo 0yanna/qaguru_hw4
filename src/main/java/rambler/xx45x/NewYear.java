@@ -13,7 +13,7 @@ public class NewYear {
     }
 
     public void GetInfoAboutHoliday() {
-        System.out.println("This year is"+ " " + number + " " + name+ " " + color + " " + even);
+        System.out.println("This year is"+ " " + number + " " + name+ " " + color);
     }
 }
 
